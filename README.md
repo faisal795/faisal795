@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from PAK</h3>
 <table>
 <tr>
-<td width="70%">
+<td width="63%">
 
 - 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
 - 🌱 I'm currently learning **NextJS**.
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am serious🙂**
 
 </td>
-<td width="400" align="center" valign="middle">
+<td align="center" valign="middle">
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="400" height="350" />
 </td>
 </tr>
