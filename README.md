@@ -1,23 +1,25 @@
 ![logo](https://github.com/faisal795/faisal795/blob/main/faisal.png)
 
-<h1 align="center">Hi 👋, I'm FAISAL SAEED</h1>
-<h3 align="center">A passionate full stack developer from PAK</h3>
-<img align="right" alt="coding-gif" width="400" height="500" style=" margin: 0; padding: 0;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal795&label=Profile%20views&color=0e75b6&style=flat" alt="faisal795" /> </p>
+<table>
+<tr>
+<td valign="top">
 
-- 🔭 I’m currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
+<h1>Hi 👋, I'm FAISAL SAEED</h1>
+<h3>A passionate full stack developer from PAK</h3>
 
-- 🌱 I’m currently learning **Nest js, Next js**
-
-- 👯 I’m looking to collaborate on [TWIXZEN E-Commerce Platform](https://twixzen.com/)
-
+- 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
+- 🌱 I'm currently learning **Nest js, Next js**
+- 👯 I'm looking to collaborate on [TWIXZEN E-Commerce Platform](https://twixzen.com/)
 - 👨‍💻 All of my projects are available at [https://faisalsaeed.twixzen.com/](https://faisalsaeed.twixzen.com/)
-
 - 📫 How to reach me **buntijani795@gmail.com**
-
-- 📄 Know about my experiences [https://faisalsaeed.twixzen.com/](https://faisalsaeed.twixzen.com/)
-
 - ⚡ Fun fact **I am serious🙂**
+
+</td>
+<td width="400">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" height="400" />
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
