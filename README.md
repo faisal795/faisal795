@@ -1,11 +1,11 @@
 ![logo](https://github.com/faisal795/faisal795/blob/main/faisal.png)
 
+<h1>Hi 👋, I'm FAISAL SAEED</h1>
+<h3>A passionate full stack developer from PAK</h3>
 <table>
 <tr>
 <td valign="top">
 
-<h1>Hi 👋, I'm FAISAL SAEED</h1>
-<h3>A passionate full stack developer from PAK</h3>
 
 - 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
 - 🌱 I'm currently learning **Nest js, Next js**
