@@ -1,29 +1,27 @@
 ![logo](https://github.com/faisal795/faisal795/blob/main/faisal.png)
 
+<h1 align="center">Hi 👋, I'm FAISAL SAEED</h1>
+<h3 align="center">A passionate full stack developer from PAK</h3>
+<img align="right" alt="coding-gif" width="400" height="350"  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal795&label=Profile%20views&color=0e75b6&style=flat" alt="faisal795" /> </p>
 
-<table>
-<tr>
-<td valign="top">
-<h1>Hi 👋, I'm FAISAL SAEED</h1>
-<h3>A passionate full stack developer from PAK</h3>
+- 🔭 I’m currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
 
-- 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
-- 🌱 I'm currently learning **Nest js, Next js**
-- 👯 I'm looking to collaborate on [TWIXZEN E-Commerce Platform](https://twixzen.com/)
+- 🌱 I’m currently learning **Nest js, Next js**
+
+- 👯 I’m looking to collaborate on [TWIXZEN E-Commerce Platform](https://twixzen.com/)
+
 - 👨‍💻 All of my projects are available at [https://faisalsaeed.twixzen.com/](https://faisalsaeed.twixzen.com/)
-- 📫 How to reach me **buntijani795@gmail.com**
-- ⚡ Fun fact **I am serious🙂**
 
-</td>
-<td width="400">
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" height="400" />
-</td>
-</tr>
-</table>
+- 📫 How to reach me **buntijani795@gmail.com**
+
+- 📄 Know about my experiences [https://faisalsaeed.twixzen.com/](https://faisalsaeed.twixzen.com/)
+
+- ⚡ Fun fact **I am serious🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/m-faisal-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-muhammad-faisal-24a6651b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-faisal-saeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-muhammad-faisal-24a6651b9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/faisal795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@faisal795" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/faisal795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faisal795" height="30" width="40" /></a>
 </p>
