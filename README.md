@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm FAISAL SAEED</h1>
 <h3 align="center">A passionate full stack developer from PAK</h3>
-<img align="right" alt="coding-gif" width="400" height="350"  src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)" />
+<img align="right" alt="coding-gif" width="400" height="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal795&label=Profile%20views&color=0e75b6&style=flat" alt="faisal795" /> </p>
 
 - 🔭 I’m currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
