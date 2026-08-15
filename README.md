@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm FAISAL SAEED</h1>
 <h3 align="center">A passionate full stack developer from PAK</h3>
-<img align="right" alt="coding-gif" width="500" height="350"  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+<img align="right" alt="coding-gif" width="350" height="350"  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal795&label=Profile%20views&color=0e75b6&style=flat" alt="faisal795" /> </p>
 
 - 🔭 I’m currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
