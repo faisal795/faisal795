@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from PAK</h3>
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 - 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
 - 🌱 I'm currently learning **NextJS**.
