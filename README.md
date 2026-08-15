@@ -4,17 +4,17 @@
 <h3 align="center">A passionate full stack developer from PAK</h3>
 <table>
 <tr>
-<td valign="top">
+<td width="50%">
 
 - 🔭 I'm currently working on [OmegaLuck Gaming Platform](https://www.omegaluck.com/)
-- 🌱 I'm currently learning **Nest js, Next js**
+- 🌱 I'm currently learning **NextJS**.
 - 👯 I'm looking to collaborate on [TWIXZEN E-Commerce Platform](https://twixzen.com/)
 - 👨‍💻 All of my projects are available at [https://faisalsaeed.twixzen.com/](https://faisalsaeed.twixzen.com/)
-- 📫 How to reach me **buntijani795@gmail.com**
+- 📫 How to reach me: **buntijani795@gmail.com**
 - ⚡ Fun fact **I am serious🙂**
 
 </td>
-<td width="400">
+<td width="400" align="center" valign="middle">
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="400" height="350" />
 </td>
 </tr>
